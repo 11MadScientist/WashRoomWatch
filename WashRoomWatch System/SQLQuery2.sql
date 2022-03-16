@@ -1,0 +1,1 @@
+﻿select RoomName from Male where RoomName like '%e%' union all select RoomName from Female where RoomName like '%e%'
